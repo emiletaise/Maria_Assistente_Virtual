@@ -26,6 +26,6 @@ $ pip install -r requirements.txt
 $ python configurar_nltk.py
 
 # Execute a aplicação
-$ python run.py
+$ python maria.py
 
 ```
