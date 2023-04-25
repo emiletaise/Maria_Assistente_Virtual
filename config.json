@@ -1,0 +1,30 @@
+{
+    "name": [
+        "maria"
+    ],
+    "questions": [
+        {
+            "question": "Velocidade",
+            "response": "Velocidade é uma grandeza física que indica a rapidez com que um objeto se desloca em um determinado intervalo de tempo."
+        },
+        {
+            "question": "Uniforme",
+            "response": "Movimento uniforme é aquele em que um objeto se desloca com velocidade constante, ou seja, sem aceleração."
+        },
+        {
+            "question": "Newton",
+            "response": "A lei da inércia de Newton é a primeira lei do movimento, que estabelece que um objeto em repouso permanecerá em repouso e um objeto em movimento permanecerá em movimento com velocidade constante, a menos que uma força resultante seja aplicada sobre ele."
+        },
+        {
+            "question": "Reação",
+            "response": "A lei da ação e reação, também conhecida como terceira lei de Newton, estabelece que toda ação provoca uma reação igual e oposta."
+        },
+        {
+            "question": "Magnético",
+            "response": "Um campo magnético é a região do espaço ao redor de um ímã ou de uma corrente elétrica onde uma força magnética é exercida sobre outra carga magnética ou elétrica em movimento."
+        },
+        {
+            "question": "Pare"
+        }
+    ]
+}
