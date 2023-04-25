@@ -14,7 +14,7 @@
 ```bash
 
 # Clone o repositório
-$ git clone https://github.com/emiletaise/Maria-Assistente-Virtual.git
+$ git clone git@github.com:emiletaise/Maria_Assistente_Virtual.git
 
 # Entre na pasta do projeto
 $ cd Maria-Assistente-Virtual
